@@ -1,1 +1,1 @@
-# wesbite-scrapper-beautifulsoup
+# website-scrapper-beautifulsoup
